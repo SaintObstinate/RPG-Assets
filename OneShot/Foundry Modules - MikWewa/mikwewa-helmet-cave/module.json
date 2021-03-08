@@ -1,0 +1,18 @@
+{
+  "name": "mikwewa-helmet-cave",
+  "title": "Mikwewa's Helmet Cave Entrance Maps",
+  "description": "<p>Preconfigured Helmet Cave Entrance Battlemap Pack by MikWewa. Walls and lighting in night versions are already loaded, so you can play straight up! Have fun!</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "1.0.0",
+  "author": "Mik and Wewa",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Helmet Cave Entrance Maps",
+      "path": "/packs/maps.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/mikwewa/"
+}

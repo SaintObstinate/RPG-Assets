@@ -1,0 +1,18 @@
+{
+  "name": "mikwewa-igloo",
+  "title": "Mikwewa's Igloo Village Maps",
+  "description": "<p>Preconfigured Igloo Village Battlemap Pack by MikWewa. Walls and lighting are already configured, so you can play straight up! Enjoy your adventuring and have fun!</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "1.0.0",
+  "author": "Mik and Wewa",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Igloo Village Maps",
+      "path": "/packs/maps.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/mikwewa/"
+}
